@@ -52,7 +52,7 @@ const Projects = () => {
           {projects.map((project) => (
             <div
               key={project.name}
-              className="bg-white p-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105"
+              className="bg-white p-6 rounded-lg shadow-lg"
             >
               <img
                 className="w-full h-48 object-cover rounded-t-lg mb-4"
