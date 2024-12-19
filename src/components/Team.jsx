@@ -52,7 +52,7 @@ const Team = () => {
         "Designing web and mobile apps, and creating brand assets from scratch.",
     },
     {
-      name: "Jaweriya",
+      name: "Jeveria",
       role: "MERN Stack Developer",
       img: "./images/jaweriya mern.jpeg",
       skills:
@@ -84,15 +84,7 @@ const Team = () => {
       intro:
         "Full-stack developer specializing in modern web technologies, with a focus on building scalable and efficient applications.",
     },
-    {
-      name: "Muneeb Masood",
-      role: "Flutter App Developer",
-      img: "./images/muneeb.jpeg",
-      skills:
-        "Flutter App Development, Shopify Development, WordPress Development",
-      intro:
-        "Skilled developer with expertise in building high-performance mobile applications and e-commerce solutions.",
-    },
+  
     {
       name: "Aliza Iftikhar",
       role: "Graphic Designer",
