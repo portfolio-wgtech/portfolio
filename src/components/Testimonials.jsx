@@ -3,22 +3,22 @@ import React from "react";
 const Testimonials = () => {
   const testimonials = [
     {
-      name: "Client A",
+      name: "Arbaz",
       feedback: "Great service and support!",
-      img: "./images/client2.png",
+      img: "./images/client3.webp",
     },
     {
-      name: "Client B",
+      name: "Cynthiya",
       feedback: "Highly recommend WGTechSol for any project.",
       img: "./images/client3.webp",
     },
     {
-      name: "Client C",
+      name: "Darakshan",
       feedback: "Outstanding experience from start to finish.",
-      img: "./images/client2.png",
+      img: "./images/client3.webp",
     },
     {
-      name: "Client D",
+      name: "Travis",
       feedback: "Professional and efficient team!",
       img: "./images/client3.webp",
     },

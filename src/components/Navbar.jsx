@@ -18,7 +18,7 @@ const Navbar = () => {
           <a href="#testimonials" className="text-white px-4">
             Testimonials
           </a>
-          <a href="#contact" className="text-white px-4">
+          <a href="https://api.whatsapp.com/send/?phone=%2B923308684458&text&type=phone_number&app_absent=0" className="text-white px-4">
             Contact
           </a>
         </div>

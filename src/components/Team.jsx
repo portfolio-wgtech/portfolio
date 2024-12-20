@@ -26,15 +26,7 @@ const Team = () => {
         "Php, Laravel, jQuery, SQL, C#, Angular, .Net, WordPress theme development",
       intro: "Experienced in building robust backend systems using Laravel.",
     },
-    {
-      name: "Hifsa Akram",
-      role: "Frontend Developer/Graphic Designer",
-      img: "./images/hifza.jpeg",
-      skills:
-        "Html, Css, JavaScript, Bootstrap, Laravel, Photoshop, Canva, Figma",
-      intro:
-        "Expertise in Frontend development for creating efficient websites.",
-    },
+
     {
       name: "Sami Khan",
       role: "React Native Developer",
@@ -47,13 +39,13 @@ const Team = () => {
       name: "Hira Fatima",
       role: "Team Manager",
       img: "./images/hira.jpeg",
-      skills: "Web & Mobile Design (Figma), Logo & Ad Post Design (Canva)",
+      skills: "Web & Mobile Design (Figma)",
       intro:
         "Designing web and mobile apps, and creating brand assets from scratch.",
     },
     {
-      name: "Jeveria",
-      role: "MERN Stack Developer",
+      name: "Jeveria", 
+      role: "Director / MERN Stack Developer",
       img: "./images/jaweriya mern.jpeg",
       skills:
         "HTML, CSS, Bootstrap, JavaScript, Python, React.js, Computer Vision, Machine Learning, Data Annotation, MS Office, Visual Studio, Jupyter Notebook",
@@ -83,16 +75,6 @@ const Team = () => {
       skills: "HTML, CSS, JavaScript, Bootstrap, React JS",
       intro:
         "Full-stack developer specializing in modern web technologies, with a focus on building scalable and efficient applications.",
-    },
-  
-    {
-      name: "Aliza Iftikhar",
-      role: "Graphic Designer",
-      img: "./images/hijab.webp",
-      skills:
-        "Adobe Photoshop, Illustrator, InDesign, Branding, Print Design, UI/UX Design",
-      intro:
-        "Mainly professional in branding, logo designing, posters, brochures, banners etc.",
     },
     {
       name: "Muhammad Shah",
