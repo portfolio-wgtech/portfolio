@@ -3,9 +3,9 @@ import React from "react";
 const Team = () => {
   const members = [
     {
-      name: "Zabir-ud-din",
+      name: "Bilawal",
       role: "Founder / CEO / UI/UX Designer",
-      img: "./images/zabir.jpeg",
+      img: "./images/bilawal.jpg",
       skills: "UI/UX Design, Adobe XD, Figma",
       intro: "Focused on creating intuitive and user-friendly interfaces.",
     },
